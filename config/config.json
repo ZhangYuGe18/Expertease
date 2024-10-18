@@ -1,0 +1,11 @@
+[
+    {"image": ".\\pictures\\pic.JPG", "text": "Text 1", "link": "https://chatgpt.com/"},
+    {"image": ".\\pictures\\pic.JPG", "text": "Text 2", "link": "https://chatgpt.com/"},
+    {"image": ".\\pictures\\pic.JPG", "text": "Text 3", "link": "https://chatgpt.com/"},
+    {"image": ".\\pictures\\pic.JPG", "text": "Text 4", "link": "https://chatgpt.com/"},
+    {"image": ".\\pictures\\pic.JPG", "text": "Text 5", "link": "https://chatgpt.com/"},
+    {"image": ".\\pictures\\pic.JPG", "text": "Text 6", "link": "https://chatgpt.com/"},
+    {"image": ".\\pictures\\pic.JPG", "text": "Text 7", "link": "https://chatgpt.com/"},
+    {"image": ".\\pictures\\pic.JPG", "text": "Text 8", "link": "https://chatgpt.com/"},
+    {"image": ".\\pictures\\pic.JPG", "text": "Text 9", "link": "https://chatgpt.com/"}
+]
